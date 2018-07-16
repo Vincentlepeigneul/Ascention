@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>https://vincentlepeigneul.github.io/Ascention/index.html</loc>
+    <lastmod>2018-07-16</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <image:image>
+      <image:loc>https://vincentlepeigneul.github.io/Ascention/images/image%20coll%C3%A9e%201920%20x%201040.jpg</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://vincentlepeigneul.github.io/Ascention/assets/%E2%98%86-championnat-de-france-de-drift-%E2%98%86-nogaro-(cfd)-_-driftone-(820p_30fps_h264-128kbit_aac).mp4</loc>
+    <lastmod>2018-07-16</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+</urlset>
