@@ -1,10 +1,13 @@
-<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="https://vincentlepeigneul.github.io/Ascention" resolutions="1x" timestamp="1531749457413">
-  <folder name="assets">
-    <file name="☆-championnat-de-france-de-drift-☆-nogaro-(cfd)-_-driftone-(820p_30fps_h264-128kbit_aac).mp4" crc="4008670835" seo="true" mt="1531709420000"/>
-  </folder>
+<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="https://vincentlepeigneul.github.io/Ascention" resolutions="1x" timestamp="1539231778565">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
-    <file name="index.css" crc="3851285688" ref="index"/>
+    <file name="index.css" crc="174108515" ref="index"/>
+  </folder>
+  <folder name="assets">
+    <file name="slide---driftone-nous-offre-déjà-un-premier-teaser..._2125734470788978.mp4" crc="4015732821" seo="true" mt="1539230990000"/>
+    <file name="slide---vidéo-officielle-_midali_-slide-tour-2017-round-5-finale_1850158971679864.mp4" crc="4218974645" seo="true" mt="1539231291000"/>
+    <file name="driftone---war-machine--king-of-touge-_1917355931836012.mp4" crc="447334728" seo="true" mt="1539231327000"/>
+    <file name="driftone---vidéo-officielle-touge-slide-_french-alps_-(round-4-_midali_-s..._1802151146480647.mp4" crc="4181707030" seo="true" mt="1539231297000"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="index"/>
@@ -13,39 +16,87 @@
     <file name="museconfig.js" crc="4286661555" ref="index"/>
     <file name="jquery.musepolyfill.bgsize.js" crc="4260645839" ref="index"/>
     <file name="jquery.watch.js" crc="51536988" ref="index"/>
-    <file name="jquery.scrolleffects.js" crc="39568856" ref="index"/>
     <file name="require.js" crc="7928878" ref="index"/>
   </folder>
   <folder name="images">
-    <file name="axel site.jpg" crc="4228740897" ref="index">
+    <file name="ascension.png" crc="3997580078" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="u139-4.png" crc="245086832" ref="index"/>
-    <file name="vignette-montagne-hiver.jpg" crc="346014099" ref="index">
+    <file name="blank.gif" crc="4208392903" ref="index"/>
+    <file name="u127_states.png" crc="513104725" ref="index"/>
+    <file name="u127_states-r.png" crc="3904114404" ref="index"/>
+    <file name="u127_states-a.png" crc="4105758512" ref="index"/>
+    <file name="u1241_states.png" crc="4173640677" ref="index"/>
+    <file name="u1241_states-r.png" crc="163800360" ref="index"/>
+    <file name="u1241_states-a.png" crc="4062238350" ref="index"/>
+    <file name="u1514_states.png" crc="387078545" ref="index"/>
+    <file name="u1514_states-r.png" crc="102829357" ref="index"/>
+    <file name="u1514_states-a.png" crc="80349000" ref="index"/>
+    <file name="u1244_states.png" crc="4105698815" ref="index"/>
+    <file name="u1244_states-r.png" crc="145302532" ref="index"/>
+    <file name="u1244_states-a.png" crc="4225164929" ref="index"/>
+    <file name="u1247_states.png" crc="305215484" ref="index"/>
+    <file name="u1247_states-r.png" crc="4253846408" ref="index"/>
+    <file name="u1247_states-a.png" crc="4054566331" ref="index"/>
+    <file name="axel site.jpg" crc="449178597" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="36538520_10214739132624962_1316149232725393408_n-u260-fr.jpg" crc="389165103" ref="index"/>
-    <file name="4304962801025346624.jpg" crc="230853750" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="index.jpg" crc="245690325" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="image collée 1920 x 1040.jpg" crc="386695202" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
+    <file name="u139-4.png" crc="433658907" ref="index"/>
     <file name="16115044_1849105235327749_6914349348592263278_n.png" crc="3810137501" ref="index">
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
     </file>
-    <file name="u127-4.png" crc="418717070" ref="index"/>
-    <file name="u551-4.png" crc="418717070" ref="index"/>
-    <file name="u556-4.png" crc="418717070" ref="index"/>
-    <file name="u561-4.png" crc="418717070" ref="index"/>
-    <file name="ascension.png" crc="3997580078" ref="index">
-      <caption webpage="index" alt=""/>
+    <file name="drift site art.jpg" crc="465947683" ref="index">
       <caption webpage="index" alt=""/>
     </file>
+    <file name="u1327-4.png" crc="99602877" ref="index"/>
+    <file name="ju nb art 859.jpg" crc="3891539712" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u271-4.png" crc="3851144637" ref="index"/>
+    <file name="u1224-4.png" crc="4211831058" ref="index"/>
+    <file name="26171420_10155320543378247_7724522486345011201_o-crop-u1085.jpg" crc="4043807203" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="axel site2.jpg" crc="4228209343" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u1227-4.png" crc="361715281" ref="index"/>
+    <file name="drift art 900.jpg" crc="269547683" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="brume art 959.jpg" crc="317740239" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u934-4.png" crc="4157568956" ref="index"/>
+    <file name="drift reverse.jpg" crc="3837194380" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u1294-4.png" crc="3822915638" ref="index"/>
+    <file name="u1232-4.png" crc="402083188" ref="index"/>
+    <file name="brume manosque art 978.jpg" crc="3882768597" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u1297-4.png" crc="3799001467" ref="index"/>
+    <file name="u1298-4.png" crc="55056658" ref="index"/>
+    <file name="u1299-4.png" crc="119903626" ref="index"/>
+    <file name="u1315-4.png" crc="4152377427" ref="index"/>
+    <file name="u1309-4.png" crc="3780959367" ref="index"/>
+    <file name="u1318-4.png" crc="183935611" ref="index"/>
+    <file name="u1319-4.png" crc="3780959367" ref="index"/>
+    <file name="dark forest art 992.jpg" crc="4003313763" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="drone art 995-crop-u1364.jpg" crc="3873607100" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u867-4.png" crc="452408898" ref="index"/>
+    <file name="u1358-4.png" crc="177970672" ref="index"/>
+    <file name="u1361-4.png" crc="3961161854" ref="index"/>
+    <file name="ju 1.png" crc="138474389" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u1403-4.png" crc="292575290" ref="index"/>
   </folder>
-  <file name="index.html" crc="3841353815" seo="true" mt="1531711140011" redirect="true"/>
+  <file name="index.html" crc="4218228041" seo="true" mt="1539231614022" redirect="true"/>
 </manifest>

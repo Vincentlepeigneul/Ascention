@@ -2,16 +2,52 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://vincentlepeigneul.github.io/Ascention/index.html</loc>
-    <lastmod>2018-07-16</lastmod>
+    <lastmod>2018-10-11</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
-      <image:loc>https://vincentlepeigneul.github.io/Ascention/images/image%20coll%C3%A9e%201920%20x%201040.jpg</image:loc>
+      <image:loc>https://vincentlepeigneul.github.io/Ascention/images/ju%20nb%20art%20859.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://vincentlepeigneul.github.io/Ascention/images/26171420_10155320543378247_7724522486345011201_o-crop-u1085.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://vincentlepeigneul.github.io/Ascention/images/axel%20site2.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://vincentlepeigneul.github.io/Ascention/images/drift%20art%20900.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://vincentlepeigneul.github.io/Ascention/images/drift%20reverse.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://vincentlepeigneul.github.io/Ascention/images/drone%20art%20995-crop-u1364.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://vincentlepeigneul.github.io/Ascention/images/ju%201.png</image:loc>
     </image:image>
   </url>
   <url>
-    <loc>https://vincentlepeigneul.github.io/Ascention/assets/%E2%98%86-championnat-de-france-de-drift-%E2%98%86-nogaro-(cfd)-_-driftone-(820p_30fps_h264-128kbit_aac).mp4</loc>
-    <lastmod>2018-07-16</lastmod>
+    <loc>https://vincentlepeigneul.github.io/Ascention/assets/slide---vid%C3%A9o-officielle-_midali_-slide-tour-2017-round-5-finale_1850158971679864.mp4</loc>
+    <lastmod>2018-10-11</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://vincentlepeigneul.github.io/Ascention/assets/slide---driftone-nous-offre-d%C3%A9j%C3%A0-un-premier-teaser..._2125734470788978.mp4</loc>
+    <lastmod>2018-10-11</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://vincentlepeigneul.github.io/Ascention/assets/driftone---vid%C3%A9o-officielle-touge-slide-_french-alps_-(round-4-_midali_-s..._1802151146480647.mp4</loc>
+    <lastmod>2018-10-11</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://vincentlepeigneul.github.io/Ascention/assets/driftone---war-machine--king-of-touge-_1917355931836012.mp4</loc>
+    <lastmod>2018-10-11</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
